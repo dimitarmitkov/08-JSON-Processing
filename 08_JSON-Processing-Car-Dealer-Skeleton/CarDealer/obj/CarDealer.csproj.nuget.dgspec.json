@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/CarDealer.csproj": {}
+  },
+  "projects": {
+    "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/CarDealer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/CarDealer.csproj",
+        "projectName": "CarDealer",
+        "projectPath": "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/CarDealer.csproj",
+        "packagesPath": "/Users/dimitarmitkov/.nuget/packages/",
+        "outputPath": "/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dimitarmitkov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

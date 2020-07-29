@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{DE2D3F1A-D486-4E02-81EF-B06C01D16A22}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductShop/StartUp.cs">
+    <Files>
+      <File FileName="ProductShop/StartUp.cs" Line="281" Column="53" />
+      <File FileName="ProductShop/Data/ProductShopContext.cs" />
+      <File FileName="ProductShop/ProductShopProfile.cs" />
+      <File FileName="ProductShop/DTO/Product/ListProductsInRangeDTO.cs" />
+      <File FileName="ProductShop/DTO/User/ListUsersInRangeDTO.cs" Line="13" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True">
+            <Node name="ProductShop" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="DTO" expanded="True">
+                <Node name="09" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="StartUp.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ProductShop" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProductShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

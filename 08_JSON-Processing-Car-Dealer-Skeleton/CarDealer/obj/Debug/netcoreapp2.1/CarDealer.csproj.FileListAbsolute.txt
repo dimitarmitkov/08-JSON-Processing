@@ -1,0 +1,12 @@
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/bin/Debug/netcoreapp2.1/CarDealer.deps.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/bin/Debug/netcoreapp2.1/CarDealer.runtimeconfig.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/bin/Debug/netcoreapp2.1/CarDealer.runtimeconfig.dev.json
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/bin/Debug/netcoreapp2.1/CarDealer.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/bin/Debug/netcoreapp2.1/CarDealer.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.csprojAssemblyReference.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.AssemblyInfoInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.AssemblyInfo.cs
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.csproj.CoreCompileInputs.cache
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.dll
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.pdb
+/Users/dimitarmitkov/Projects/C#2020/CSDB_SQL/exercises_c_sharp_db/08/08. JSON-Processing-Car-Dealer-Skeleton/CarDealer/obj/Debug/netcoreapp2.1/CarDealer.genruntimeconfig.cache

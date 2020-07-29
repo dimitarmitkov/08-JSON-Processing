@@ -1,0 +1,16 @@
+﻿using AutoMapper;
+using ProductShop.DTO.Product;
+using ProductShop.Models;
+
+namespace ProductShop
+{
+    public class ProductShopProfile : Profile
+    {
+        public ProductShopProfile()
+        {
+
+            this.CreateMap<Product, ListProductsInRangeDTO>()
+                .ForMember(lpir => lpir.SellerName, opt => opt.MapFrom(p => p.Seller.FirstName + " " + p.Seller.LastName));
+        }
+    }
+}

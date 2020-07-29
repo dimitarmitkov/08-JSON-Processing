@@ -1,0 +1,14 @@
+﻿using System;
+namespace ProductShop.DTO.User
+{
+    public class ProductSoldListDTO
+    {
+        public string Name { get; set; }
+
+        public decimal Price { get; set; }
+
+        public string SellerFirtsName { get; set; }
+
+        public string SellerLastName { get; set; }
+    }
+}
